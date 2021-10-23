@@ -1,5 +1,6 @@
-<h1 align="center">Milaroot</h1>
-
+<p align="center">
+  <img src="https://github.com/Milaroot/Milaroot/blob/main/MILA.gif" />
+</p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
