@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Milaroot/Milaroot/blob/main/MILA.gif" />
   <br/>
-  <a>Hi there<a>
+  <a>Welcome<a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
