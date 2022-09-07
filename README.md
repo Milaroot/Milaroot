@@ -15,14 +15,19 @@
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <br/>
-  <br/>
+  </a></br>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=milaroot&show_icons=true&locale=en&&theme=ocean_dark" alt="milaroot" />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milaroot&show_icons=true&locale=en&layout=compact&&theme=ocean_dark" alt="milaroot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milaroot&show_icons=true&locale=en&layout=compact&&theme=ocean_dark" alt="milaroot" /></br>
+  <a>═══════════════════════════════════════════════════════════════════════════════════</a></br>
+  <a>Hello i'm Milaroot</a></br>
+  <a>A W3aK WEB CTF Player</a>
 </p>
+
+
+
 
 
 
