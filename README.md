@@ -1,8 +1,12 @@
 <p align="center">
+  <a>════════════════════════════════════════════════════</a><br>
+  <a>════ Hello i'm Milaroot════ </a><br>
+  <a>════ A baby👶 WEB CTF Player════ </a><br>
+  <a>═════════════════════════════════════════════════════</a><br>
   <a href="https://www.youtube.com/watch?v=lcPHFQP9GN0">
   <img src="https://github.com/Milaroot/Milaroot/blob/main/MILA.gif" />
   </a>
-  <br/>
+  <br>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
@@ -17,15 +21,12 @@
   </a> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a></br>
-  <br/><br/>
+  </a><br>
+  <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=milaroot&show_icons=true&locale=en&&theme=ocean_dark" alt="milaroot" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milaroot&show_icons=true&locale=en&layout=compact&&theme=ocean_dark" alt="milaroot" /></br>
-  <a>═══════════════════════════════════════════════════════════════════════════════════</a></br>
-  <a>Hello i'm Milaroot</a></br>
-  <a>A baby WEB CTF Player</a>
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=milaroot&show_icons=true&locale=en&layout=compact&&theme=ocean_dark" alt="milaroot" /><br>
 </p>
 
 
